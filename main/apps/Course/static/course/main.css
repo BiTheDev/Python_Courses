@@ -1,0 +1,22 @@
+.form-control{
+	display:inline-block !important;
+	width:30% !important;
+	height: 100px;
+	resize: none;
+}
+input{
+	display: inline-block;
+	width:31.75%;
+}
+p {
+	display: block;
+}
+
+label{
+	vertical-align: top;
+}
+
+button{
+	display: block !important;
+	margin-left:32% !important;
+}
